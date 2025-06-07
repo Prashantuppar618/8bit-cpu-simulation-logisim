@@ -43,7 +43,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - KLE Technological University – COA Faculty  
 - Logisim community and open-source circuit libraries  
 - Digital Design textbooks and course material  
-
-```
-
-
