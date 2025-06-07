@@ -1,5 +1,5 @@
 
-# 🧠 Logisim COA Project – Team 16
+# 🧠 Logisim COA Project
 
 A complete 8-bit processor simulation project built using **Logisim**, submitted as part of the Computer Organization and Architecture (COA) course. The project demonstrates core concepts of processor design, including ALU operations, instruction execution, and control unit architecture.
 
